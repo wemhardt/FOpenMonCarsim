@@ -80,11 +80,11 @@ Match probabilities are modeled using a logistic function and adjusted for best-
 10,000+ tournament simulations are run to generate advancement probabilities.
 
 
-Technologies Used
-Python
-Pandas
-NumPy
-Playwright
+Technologies Used:
+Python,
+Pandas,
+NumPy,
+Playwright,
 Google Sheets
 
 Future Improvements
