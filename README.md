@@ -4,14 +4,15 @@ Overview
 This project builds a Monte Carlo simulation framework to estimate advancement and title probabilities for the 2026 French Open men's singles tournament. Rather than relying only on rankings, the model combines match-level performance metrics, opponent quality, recency effects, surface-specific form, Grand Slam seeding logic, and matchup interactions.
 
 The simulation estimates probabilities for:
-Tournament Champion
-Finals
-Semifinals
-Quarterfinals
-Round of 16
-Round of 32
-Round of 64
+	Tournament Champion,
+	Finals,
+	Semifinals,
+	Quarterfinals,
+	Round of 16,
+	Round of 32,
+	Round of 64
 
+	
 Data Collection
 Match-level data for the top 128 ATP players was scraped from Tennis Abstract using custom Python scripts.
 Data collected included:
